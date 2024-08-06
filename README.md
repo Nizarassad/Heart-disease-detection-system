@@ -6,6 +6,7 @@ In our century, people often prioritize their financial status over their own he
 <br><br>
 <div align="center">
   <img src="https://drive.google.com/uc?id=1US_p_u7PYNy2Kfbe3GVweEetK2v3oNC5" alt="Heart Failure Prediction">
+  <p><em>The fast growth of heart failure patients from 1970 – 2040: Heart Failure demographics</em></p>
 </div>
 <br><br>
 Prior research has explored heart disease prediction using various methods. In 2011, Ujma Ansari used the Decision Tree model and achieved an accuracy of 99%, inspiring us to use an advanced version, Random Forest (Soni, Jyoti, 2011). Chaitrali S. Dangare, in 2012, used Naive Bayes, Decision Trees, and Neural Networks, adding two more features to the dataset for a total of 15. We aim to refine these approaches by focusing on a dataset with 13 features to avoid overfitting (Dangare, Chaitrali S., and Sulabha S. Apte, 2012).
