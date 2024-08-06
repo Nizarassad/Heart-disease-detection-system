@@ -5,12 +5,9 @@
 In our century, people often prioritize their financial status over their own healthcare, leading to an increase in mental health issues and physical stress. The COVID-19 pandemic has also contributed to heart complications, including muscle damage and impaired heart function (Susan Post, M.D., M.S., 2021). Health centers and medical organizations have accumulated a vast amount of data on heart conditions. With this wealth of information, we can apply machine learning techniques to gain valuable insights.
 <br><br>
 <div align="center">
-  <img  height="200" src="https://drive.google.com/file/d/1US_p_u7PYNy2Kfbe3GVweEetK2v3oNC5" alt="pancancer"  width="300" />
+  <img src="https://drive.google.com/uc?id=1US_p_u7PYNy2Kfbe3GVweEetK2v3oNC5" alt="Heart Failure Prediction">
 </div>
 <br><br>
-
-![Heart Failure Prediction](https://drive.google.com/uc?id=1US_p_u7PYNy2Kfbe3GVweEetK2v3oNC5)
-
 Prior research has explored heart disease prediction using various methods. In 2011, Ujma Ansari used the Decision Tree model and achieved an accuracy of 99%, inspiring us to use an advanced version, Random Forest (Soni, Jyoti, 2011). Chaitrali S. Dangare, in 2012, used Naive Bayes, Decision Trees, and Neural Networks, adding two more features to the dataset for a total of 15. We aim to refine these approaches by focusing on a dataset with 13 features to avoid overfitting (Dangare, Chaitrali S., and Sulabha S. Apte, 2012).
 
 ## Aim
